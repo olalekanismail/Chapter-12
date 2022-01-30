@@ -1,0 +1,5 @@
+try-finally:
+
+It contain codes that is always executed, no matter how the program flow leaves the try block. There isusing statement is not related to exception handling. Its only purpose is to release the resources no matter whether exceptions are thrown or not. It does not handle exception.
+
+ Using statement purpose is to release the resources no matter whether exceptions are thrown or not. It does not handle exception.

@@ -1,0 +1,7 @@
+Advantages of Using Exceptions
+
+ 1: Separating Error Handling Code from "Regular" Code.
+
+ 2: Propagating Errors Up the Call Stack.
+
+ 3: Grouping Error Types and Error Differentiation.

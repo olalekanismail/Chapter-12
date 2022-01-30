@@ -1,0 +1,6 @@
+Exception is a notification that something interrupts the normal program execution. Also, it detect and react to unexpected events.
+
+Exception handling is a mechanism, which allows exceptions to be thrown and caught. This mechanism is provided internally by the CLR.
+
+It can be catch by:
+Create a try{} - catch(){} - finally{} statement.
